@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-<img align="right" height="264" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVoeDZwNHBweHRiaGF0YWNrb3B2NW8xcDExcDhraXpldzhhdzkyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="right" height="268" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVoeDZwNHBweHRiaGF0YWNrb3B2NW8xcDExcDhraXpldzhhdzkyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 
 <div align="left">

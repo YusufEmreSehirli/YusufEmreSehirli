@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 <img align="right" height="230" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVoeDZwNHBweHRiaGF0YWNrb3B2NW8xcDExcDhraXpldzhhdzkyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-###
+---------
 <div align="left">
   <a href="https://www.linkedin.com/in/yusuf-emre-şehirli-a52630303" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
